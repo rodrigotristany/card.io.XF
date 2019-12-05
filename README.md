@@ -1,2 +1,2 @@
 # card.io.XF
-card.io integration for Xamarin Forms
+PayPal card.io integration for Xamarin Forms
