@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "card.io.xf", "card.io.xf\ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "card.io.android.native", "card.io.android.native\card.io.android.native\card.io.android.native.csproj", "{B1510B8E-F2C7-4BD5-8593-F6866D7FE76C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "card.io.ios.native", "card.io.ios.native\card.io.ios.native.csproj", "{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,17 +67,5 @@ Global
 		{B1510B8E-F2C7-4BD5-8593-F6866D7FE76C}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{B1510B8E-F2C7-4BD5-8593-F6866D7FE76C}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{B1510B8E-F2C7-4BD5-8593-F6866D7FE76C}.Release|iPhone.Build.0 = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{CDC6AAE3-EA17-4DE9-9D36-2CF6DAE49828}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

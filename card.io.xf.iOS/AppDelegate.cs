@@ -2,8 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 
+#if __UNIFIED__
 using Foundation;
 using UIKit;
+#else
+using MonoTouch.Foundation;
+using MonoTouch.UIKit;
+#endif
 
 namespace card.io.xf.iOS
 {
@@ -20,6 +25,7 @@ namespace card.io.xf.iOS
         //
         // You have 17 seconds to return from this method, or iOS will terminate your application.
         //
+
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
